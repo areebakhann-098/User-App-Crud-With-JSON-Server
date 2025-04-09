@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": "be10",
+      "department": "IT",
+      "name": "Areeba",
+      "mobile": "03469224385",
+      "email": "areebakhalid9877@gmail.com",
+      "gender": "female",
+      "doj": "2025-02-01",
+      "city": "Abbottabad",
+      "salary": "30000",
+      "address": "Abbottabad",
+      "status": true
+    },
+    {
+      "id": "1562",
+      "department": "IT",
+      "name": "zanib",
+      "mobile": "33786378673",
+      "email": "admin@gamil.com",
+      "gender": "fenake",
+      "doj": "2025-05-01",
+      "city": "Islamabad",
+      "salary": "40000",
+      "address": "abbottabad abidiwh",
+      "status": false
+    },
+    {
+      "id": "1562",
+      "department": "HR",
+      "name": "Simply Sufi Seekh Kabab",
+      "mobile": "33786378673",
+      "email": "admin@gamil.com",
+      "gender": null,
+      "doj": null,
+      "city": null,
+      "salary": null,
+      "address": "abbottabad abidiwh",
+      "status": null
+    },
+    {
+      "id": "d3bf",
+      "department": "",
+      "name": "",
+      "mobile": "",
+      "email": "",
+      "gender": "",
+      "doj": "2025-05-02",
+      "city": "",
+      "salary": 0,
+      "address": "",
+      "status": false
+    }
+  ]
+}
