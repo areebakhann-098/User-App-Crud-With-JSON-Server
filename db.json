@@ -1,56 +1,56 @@
 {
   "users": [
     {
-      "id": "be10",
-      "department": "IT",
-      "name": "Areeba",
+      "id": "5e4b",
+      "department": "Accounts",
+      "name": "areebakhann",
       "mobile": "03469224385",
       "email": "areebakhalid9877@gmail.com",
       "gender": "female",
-      "doj": "2025-02-01",
+      "doj": "2025-04-06",
+      "city": "Karachi",
+      "salary": 0,
+      "address": "abbottabad",
+      "status": false
+    },
+    {
+      "id": "165a",
+      "department": "Accounts",
+      "name": "usman",
+      "mobile": "03466933485",
+      "email": "areebkahlid09@gmail.com",
+      "gender": "male",
+      "doj": "2025-04-29",
       "city": "Abbottabad",
-      "salary": "30000",
-      "address": "Abbottabad",
+      "salary": 434857,
+      "address": "abbottabad ",
       "status": true
     },
     {
-      "id": "1562",
-      "department": "IT",
+      "id": "9447",
+      "department": "Accounts",
+      "name": "imran",
+      "mobile": "03872765367",
+      "email": "imrankhan8@gmail.com",
+      "gender": "male",
+      "doj": "2025-04-30",
+      "city": "Faisalabad",
+      "salary": 2000,
+      "address": "Malakand Swat",
+      "status": true
+    },
+    {
+      "id": "46c3",
+      "department": "Management",
       "name": "zanib",
-      "mobile": "33786378673",
-      "email": "admin@gamil.com",
-      "gender": "fenake",
-      "doj": "2025-05-01",
-      "city": "Islamabad",
-      "salary": "40000",
-      "address": "abbottabad abidiwh",
-      "status": false
-    },
-    {
-      "id": "1562",
-      "department": "HR",
-      "name": "Simply Sufi Seekh Kabab",
-      "mobile": "33786378673",
-      "email": "admin@gamil.com",
-      "gender": null,
-      "doj": null,
-      "city": null,
-      "salary": null,
-      "address": "abbottabad abidiwh",
-      "status": null
-    },
-    {
-      "id": "d3bf",
-      "department": "",
-      "name": "",
-      "mobile": "",
-      "email": "",
-      "gender": "",
-      "doj": "2025-05-02",
-      "city": "",
-      "salary": 0,
-      "address": "",
-      "status": false
+      "mobile": "09876543213",
+      "email": "zanib098@gmail.com",
+      "gender": "female",
+      "doj": "2025-04-23",
+      "city": "Abbottabad",
+      "salary": 50009,
+      "address": "Abbottabad",
+      "status": true
     }
   ]
 }
