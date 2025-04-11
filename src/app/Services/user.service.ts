@@ -7,7 +7,7 @@ import { UserModel } from '../Model/user';
   providedIn: 'root'
 })
 export class UserService {
-  private apiUrl = 'http://localhost:3000/users';
+  private apiUrl = 'https://jsonplaceholder.typicode.com/';
   constructor() { }
 
   http = inject(HttpClient);
